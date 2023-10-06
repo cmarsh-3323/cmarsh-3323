@@ -6,10 +6,10 @@
 - 🌱&nbsp;   &nbsp;   I'm always working on learning new tools in Data Engineering.
 - :wave:&nbsp;   &nbsp;   I'm looking to collaborate with data professionals.
 - 🥅 &nbsp;   &nbsp;   Goals: To make big data actionable!
-- ⚡&nbsp;   &nbsp;   Fun fact: I love skateboarding, playing drums, going biking, and playing some Friday Night Magic!
+- ⚡&nbsp;   &nbsp;   Fun fact: I love skateboarding, playing the drums, going biking, and playing some Friday Night Magic!
 
 ## Education:
-- Data Engineering NanoDegree
+- Enrolled in the Data Engineer Nanodegree program offered by Udacity
 - Data Camp Data Engineer Certification 
 
 ## Certifications
@@ -17,7 +17,8 @@
 - Big Data Fundamentals with Pyspark 
 - Building Data Engineering Pipelines with Python 
 - Scientific Computing with Python 
-- Python Core (Sololearn) 
+- Python Core (Sololearn)
+- Unit Testing for Data Science in Python
 
 <br />
 
