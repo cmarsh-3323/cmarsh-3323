@@ -9,7 +9,7 @@
 - ⚡&nbsp;   &nbsp;   Fun fact: I love skateboarding, playing the drums, going biking, and playing some Friday Night Magic!
 
 ## Education:
-- Enrolled in the Data Engineer Nanodegree program offered by Udacity
+- Completed the Data Engineering Nanodegree program offered by Udacity
 - Data Camp Data Engineer Certification 
 
 ## Certifications
