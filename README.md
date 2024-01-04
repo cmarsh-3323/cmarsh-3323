@@ -9,8 +9,9 @@
 - ⚡&nbsp;   &nbsp;   Fun fact: I love skateboarding, playing the drums, going biking, and playing some Friday Night Magic!
 
 ## Education:
-- Completed the Data Engineering Nanodegree program offered by Udacity
-- Data Camp Data Engineer Certification 
+- Completed the AWS Data Engineering Nanodegree program offered by Udacity
+- Data Camp Data Engineer Certification
+- Currently working on the Azure DE Nanodegree through Udacity
 
 ## Certifications
 - Azure Data Engineer Certified 
